@@ -1,0 +1,8 @@
+;;; classical transformator computation
+
+;;; generate ARRAY ( (X0 X) (X0 X) ... (X0 X) )
+;;; in: Nшихт - количество, S - зазор между шихтами, Sшихты - сечение шихты
+;;; !!! Проверить влазит ли в пределы массива, иначе увеличить допустимую границу !!!
+(defun genXArr (Nshiht S Sshiht )
+  
+  )
